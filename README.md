@@ -19,3 +19,5 @@ There are 4 types of actions
 Attack power is 10 for the player and 8 for the blob, this is customisable on line 19 and 20
 
 Each round, there is a 30% chance that the special attack option is provided (Customisable on line 56)
+
+[Demo](https://www.youtube.com/watch?v=EISGfqNWZ_k)
