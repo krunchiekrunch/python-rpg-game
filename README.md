@@ -3,7 +3,7 @@
 ## Instructions
 
 ```
-git clone https://github.com/RadioactivePotato/python-rpg-game
+git clone https://github.com/krunchiekrunch/python-rpg-game
 cd python-cli-rpg-game
 python main.py
 ```
